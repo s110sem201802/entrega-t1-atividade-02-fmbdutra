@@ -1,3 +1,5 @@
+REALIZANDO A TAREFA 02 DO T1
+
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
